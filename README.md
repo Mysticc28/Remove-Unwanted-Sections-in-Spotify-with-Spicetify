@@ -1,5 +1,5 @@
 # **Remove annoying sections on Spotify through Spicetify Marketplace custom CSS Snippet**
-## Note - The following extensions work only if you have Spicetify installed. If not, get here @spicetify 
+## Note - The following extensions work only if you have Spicetify installed. If not, get here https://github.com/spicetify
 
 # How to install
 Download latest release file Snippets.rar. Right click and extract to folder
