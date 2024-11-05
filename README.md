@@ -28,7 +28,7 @@ If name has more than one word, try with one or two words to find what works
 
 
 # How to install
-Download latest release file Snippets.rar. Right click and extract to folder
+Download latest release file Snippets.rar. Right click and extract to folder OR open the Snippets folder in main branch and select the snippet you want
 
 ![image](https://github.com/user-attachments/assets/cce0bc08-30e7-4519-b6e1-4e1169393781)
 
