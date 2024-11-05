@@ -1,3 +1,0 @@
-section[aria-label^='Recently'] {
-  display: none;
-}

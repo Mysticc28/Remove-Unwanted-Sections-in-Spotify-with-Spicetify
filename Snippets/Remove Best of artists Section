@@ -1,3 +1,0 @@
-section[aria-label^='Best of'] {
-  display: none;
-}

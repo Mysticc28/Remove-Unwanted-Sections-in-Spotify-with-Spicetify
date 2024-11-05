@@ -1,3 +1,0 @@
-section[aria-label^='Your top'] {
-  display: none;
-}
