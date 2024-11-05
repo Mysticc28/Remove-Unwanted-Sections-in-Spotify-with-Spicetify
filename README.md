@@ -38,6 +38,8 @@ If name has more than one word, try with one or two words to find what works
 ![image](https://github.com/user-attachments/assets/8b58983e-6c18-48bd-9245-30f2a5f296a1)
 # Remove Best of Artists section
 ![image](https://github.com/user-attachments/assets/0ea117c9-43bb-4379-b915-bdb7c439d4ef)
+# Remove Jump Back In Section
+![image](https://github.com/user-attachments/assets/7bf40231-fd57-4863-bbc8-9a3fbb30d31a)
 # Remove More of what you like section
 ![image](https://github.com/user-attachments/assets/180056bc-8eab-435e-9433-231d752398db)
 # Remove Recently Played section
