@@ -39,7 +39,7 @@ Select the snippet you want to install and open it
 ![image](https://github.com/user-attachments/assets/f854ccc7-2844-4709-a140-ef65321d194d)
 
 Select all the code and copy it
-Navigate to Spotify>Marketplace>Snippets**
+**Navigate to Spotify>Marketplace>Snippets**
 
 ![image](https://github.com/user-attachments/assets/2decf258-2f0e-4e65-985e-d5f2ac483a8b)
 
