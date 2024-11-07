@@ -29,7 +29,7 @@ If name has more than one word, try with one or two words to find what works
 
 # How to install
 
-Copy the code for the snippet you want from here
+Copy the code for the snippet you want from here - https://github.com/Mysticc28/Remove-Unwanted-Sections-in-Spotify-with-Spicetify/tree/12004721141a2f79c4f41e3036c125b1e272e8d1/Snippets
 
 **Navigate to Spotify>Marketplace>Snippets**
 
