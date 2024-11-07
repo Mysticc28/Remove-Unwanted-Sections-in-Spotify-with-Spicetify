@@ -29,7 +29,7 @@ If name has more than one word, try with one or two words to find what works
 
 # How to install
 
-Copy the code for the snippet you want
+Copy the code for the snippet you want from here
 
 **Navigate to Spotify>Marketplace>Snippets**
 
