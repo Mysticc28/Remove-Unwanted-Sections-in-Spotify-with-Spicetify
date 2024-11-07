@@ -28,17 +28,9 @@ If name has more than one word, try with one or two words to find what works
 
 
 # How to install
-Download latest release file Snippets.rar. Right click and extract to folder OR open the Snippets folder in main branch and select the snippet you want
 
-![image](https://github.com/user-attachments/assets/cce0bc08-30e7-4519-b6e1-4e1169393781)
+Copy the code for the snippet you want
 
-Select the snippet you want to install and open it
-
-![image](https://github.com/user-attachments/assets/3309a05e-43db-47c8-9f95-dfacaaf9bc55)
-
-![image](https://github.com/user-attachments/assets/f854ccc7-2844-4709-a140-ef65321d194d)
-
-Select all the code and copy it
 **Navigate to Spotify>Marketplace>Snippets**
 
 ![image](https://github.com/user-attachments/assets/2decf258-2f0e-4e65-985e-d5f2ac483a8b)
